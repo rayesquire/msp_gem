@@ -1,5 +1,6 @@
 require "msp_gem/version"
 
 module MspGem
-  # Your code goes here...
+  p "it's my first gem"
+  p "just for a test"
 end
